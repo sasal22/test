@@ -26,7 +26,17 @@
     left: 50%;
     transform: translate(-50%,-50px);
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+.yellow{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+=======
+<<<<<<< HEAD
+=======
 
+>>>>>>> 8fb8ff8ad4516d8cbce0b2d3cbab3e746dbe2ba0
 .green{
     width: 100px;
     height: 100px;
@@ -40,4 +50,9 @@
     background: blue;
     width: 100px;
     height: 100px;
+<<<<<<< HEAD
+>>>>>>> 96996ad6e4ec5ce39f85a012aed8cf726751e313
+>>>>>>> cd4b723a28fb9ad17da6e67e58b4514855b185a3
+=======
+>>>>>>> 8fb8ff8ad4516d8cbce0b2d3cbab3e746dbe2ba0
 }
