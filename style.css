@@ -26,15 +26,14 @@
     left: 50%;
     transform: translate(-50%,-50px);
 }
-<<<<<<< HEAD
+
 .green{
     width: 100px;
     height: 100px;
     background: green;
-=======
+}
 .blue{
     background: blue;
     width: 100px;
     height: 100px;
->>>>>>> 96996ad6e4ec5ce39f85a012aed8cf726751e313
 }
